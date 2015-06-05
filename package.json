@@ -11,6 +11,8 @@
   "dependencies": {},
   "devDependencies": {
     "nodeunit": "",
+    "jscoverage": "",
+    "coveralls": "",
     "grunt": "",
     "grunt-contrib-nodeunit": "",
     "grunt-contrib-jshint": ""
@@ -24,7 +26,8 @@
     "test": "test"
   },
   "scripts": {
-    "test": "grunt"
+    "test": "grunt",
+    "coveralls": "jscoverage extensions && PRINTLN_COV=1 nodeunit --reporter=lcov test | coveralls"
   },
   "keywords": [
     "console.log",
