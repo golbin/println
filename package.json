@@ -1,0 +1,22 @@
+{
+    "name": "println",
+    "version": "0.1.0",
+    "description": "Easy console.log for lazy programmers.",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/golbin/println.git"
+    },
+    "author": "Jin Kim",
+    "license": "MIT",
+    "dependencies": {
+    },
+    "devDependencies": {
+        "grunt": "",
+        "grunt-contrib-nodeunit": "",
+        "grunt-contrib-jshint": ""
+    },
+    "bugs": {
+        "url": "https://github.com/golbin/println/issues"
+    },
+    "homepage": "https://github.com/golbin/println"
+}
