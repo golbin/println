@@ -1,5 +1,8 @@
 # Easy console.log for lazy programmers
 
+[![Build Status](https://travis-ci.org/golbin/println.svg?branch=master)](https://travis-ci.org/golbin/println)
+[![NPM](https://img.shields.io/npm/v/println.svg)](https://img.shields.io/npm/v/println.svg)
+
 ## Install
 
 npm install --save-dev println
