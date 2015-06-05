@@ -7,6 +7,8 @@ npm install --save-dev println
 ## Usage
 
 ```js
+require('println');
+
 var number = 1;
 
 number.println();

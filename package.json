@@ -1,6 +1,6 @@
 {
   "name": "println",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Easy console.log for lazy programmers.",
   "repository": {
     "type": "git",
