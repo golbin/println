@@ -1,22 +1,33 @@
 {
-    "name": "println",
-    "version": "0.1.0",
-    "description": "Easy console.log for lazy programmers.",
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/golbin/println.git"
-    },
-    "author": "Jin Kim",
-    "license": "MIT",
-    "dependencies": {
-    },
-    "devDependencies": {
-        "grunt": "",
-        "grunt-contrib-nodeunit": "",
-        "grunt-contrib-jshint": ""
-    },
-    "bugs": {
-        "url": "https://github.com/golbin/println/issues"
-    },
-    "homepage": "https://github.com/golbin/println"
+  "name": "println",
+  "version": "0.1.0",
+  "description": "Easy console.log for lazy programmers.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/golbin/println.git"
+  },
+  "author": "Jin Kim",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "",
+    "grunt-contrib-nodeunit": "",
+    "grunt-contrib-jshint": ""
+  },
+  "bugs": {
+    "url": "https://github.com/golbin/println/issues"
+  },
+  "homepage": "https://github.com/golbin/println",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "console.log",
+    "println",
+    "debug"
+  ]
 }
