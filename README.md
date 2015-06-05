@@ -1,8 +1,8 @@
 # Easy console.log for lazy programmers
 
-[![NPM](https://img.shields.io/npm/v/println.svg)](https://img.shields.io/npm/v/println.svg)
+[![NPM](https://img.shields.io/npm/v/println.svg)](https://www.npmjs.com/package/println)
 [![Build Status](https://travis-ci.org/golbin/println.svg?branch=master)](https://travis-ci.org/golbin/println)
-[![Coverage](https://img.shields.io/coveralls/golbin/println.svg)](https://img.shields.io/coveralls/golbin/println.svg)
+[![Coverage](https://img.shields.io/coveralls/golbin/println.svg)](https://coveralls.io/r/golbin/println)
 
 ## Install
 
